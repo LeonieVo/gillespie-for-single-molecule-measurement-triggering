@@ -1,0 +1,1 @@
+This example uses the gillespie algorithm to create state sequences for a 3-state model. This state sequence is then 'translated' to a triggering file. This triggering file is used to trigger cameras, lasers and shutters in a 4-colour prism-type TIRF microscope.
